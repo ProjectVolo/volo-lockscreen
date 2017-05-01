@@ -1,23 +1,22 @@
 ## Project Volo Material Design LightDM Theme
 
 This is a theme for LightDM's Webkit2 theme engine (`lightdm-webkit2-greeter`).
+Based on https://github.com/artur9010/lightdm-webkit-material by artur9010
 
 ### Screenshots
 TODO
 
 ### Features
-Currently the same as the abandoned project it was forked from:
-
-- Selecting an available user from a dropdown box
-- Entering their password
-- Seeing their profile picture
-- Restarting the computer
-- Shutting the computer down
-- Suspending the computer
-- Hibernate
-- Select session (GNOME, KDE, Xfce or other installed DE)
+You can:
+- Select a user from a dropdown box
+- Enter the password
+- Seeing a profile picture
+- Restart the computer
+- Shut the computer down
+- Suspend the computer
+- Hibernate the computer
+- Select session (GNOME, Budgie, KDE, Xfce or other installed DE)
 - Select your language
-- 3 different types of background (trianglify, particleground, and image)
 - Option to select keyboard layout (eq. pl_PL for Polish keyboard, en_US for English)
 - HiDpi screen support (2000px in width or more)
 - A clock with seconds
