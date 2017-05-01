@@ -25,6 +25,8 @@ You can:
 
 See Wiki (Link Soon)
 
+### Code only gets here by being tested in both Upcoming and Dev
+
 ### Updating
 1. In the terminal, `cd` to `/usr/share/lightdm-webkit/themes/lightdm-webkit-material/`
 2. Pull changes from repository, `git pull`
